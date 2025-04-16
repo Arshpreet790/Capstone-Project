@@ -49,7 +49,7 @@
 
 1. Clone this repository:
     ```bash
-    git clone 
+    git clone https://github.com/Arshpreet790/Capstone-Project.git
     ```
 
 2. Open in Android Studio.
